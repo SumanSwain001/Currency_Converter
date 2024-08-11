@@ -14,8 +14,8 @@ body {
 .container {
     background-color: wheat;
     padding: 2rem;
-    min-height: 45vh;
-    min-width: 40vh;
+    height: 45vh;
+    width: 40vh;
     border-radius: 1rem;
 }
 
